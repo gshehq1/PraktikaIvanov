@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|c:\\users\\413\\desktop\\\u0438\u0441\u043F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\\praktikaivanov\\habittracker\\habittracker\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|solutionrelative:habittracker\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|c:\\users\\413\\desktop\\\u0438\u0441\u043F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\\praktikaivanov\\habittracker\\habittracker\\habitspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|solutionrelative:habittracker\\habitspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|c:\\users\\413\\desktop\\\u0438\u0441\u043F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\\praktikaivanov\\habittracker\\habittracker\\habitdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|solutionrelative:habittracker\\habitdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|c:\\users\\413\\desktop\\\u0438\u0441\u043F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\\praktikaivanov\\habittracker\\habittracker\\dictionariespage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|solutionrelative:habittracker\\dictionariespage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|c:\\users\\413\\desktop\\\u0438\u0441\u043F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\\praktikaivanov\\habittracker\\habittracker\\dictionariespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|solutionrelative:habittracker\\dictionariespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|c:\\users\\413\\desktop\\\u0438\u0441\u043F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0432\\praktikaivanov\\habittracker\\habittracker\\dictionariespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6143083F-BC58-E834-DBC9-A79F93F51E59}|HabitTracker\\HabitTracker.csproj|solutionrelative:habittracker\\dictionariespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HabitsPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\HabitsPage.cs",
+              "RelativeDocumentMoniker": "HabitTracker\\HabitsPage.cs",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\HabitsPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "HabitTracker\\HabitsPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:11:01.333Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\HabitDialog.cs",
+              "RelativeDocumentMoniker": "HabitTracker\\HabitDialog.cs",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\HabitDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "HabitTracker\\HabitDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:10:54.94Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DictionariesPage.resx",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\DictionariesPage.resx",
+              "RelativeDocumentMoniker": "HabitTracker\\DictionariesPage.resx",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\DictionariesPage.resx",
+              "RelativeToolTip": "HabitTracker\\DictionariesPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-29T09:10:52.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DictionariesPage.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\DictionariesPage.cs",
+              "RelativeDocumentMoniker": "HabitTracker\\DictionariesPage.cs",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\DictionariesPage.cs",
+              "RelativeToolTip": "HabitTracker\\DictionariesPage.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:10:38.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DictionariesPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\DictionariesPage.cs",
+              "RelativeDocumentMoniker": "HabitTracker\\DictionariesPage.cs",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\DictionariesPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "HabitTracker\\DictionariesPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:10:34.84Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\Db.cs",
+              "RelativeDocumentMoniker": "HabitTracker\\Db.cs",
+              "ToolTip": "C:\\Users\\413\\Desktop\\\u0418\u0421\u041F31\\\u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A \u0412\\PraktikaIvanov\\HabitTracker\\HabitTracker\\Db.cs",
+              "RelativeToolTip": "HabitTracker\\Db.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:08:45.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
