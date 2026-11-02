@@ -30,3 +30,4 @@ C:\Users\413\Desktop\ИСП31\участник В\PraktikaIvanov\HabitTracker\Ha
 C:\Users\413\Desktop\ИСП31\участник В\PraktikaIvanov\HabitTracker\HabitTracker\obj\Debug\net8.0-windows\HabitTracker.HabitDialog.resources
 C:\Users\413\Desktop\ИСП31\участник В\PraktikaIvanov\HabitTracker\HabitTracker\obj\Debug\net8.0-windows\HabitTracker.HabitsPage.resources
 C:\Users\413\Desktop\ИСП31\участник В\PraktikaIvanov\HabitTracker\HabitTracker\obj\Debug\net8.0-windows\HabitTracker.csproj.GenerateResource.cache
+C:\Users\413\Desktop\ИСП31\участник В\PraktikaIvanov\HabitTracker\HabitTracker\obj\Debug\net8.0-windows\HabitTracker.LoginForm.resources

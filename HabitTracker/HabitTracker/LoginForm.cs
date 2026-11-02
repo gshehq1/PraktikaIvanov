@@ -58,7 +58,6 @@ namespace HabitTracker
 
             try
             {
-                // Параметры @l и @h: введённый текст никогда не попадает в SQL как команда
                 var result = Db.Query(
                     "SELECT u.user_id, CAST(u.full_name AS text) AS full_name, r.role_name " +
                     "FROM users u JOIN roles r ON r.role_id = u.role_id " +
